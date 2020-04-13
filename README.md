@@ -1,6 +1,6 @@
 # Reddit-Statistics
 
-Script to visualise the realation between Creation Time and the Total Number of posts that made it to the Top 100 of 50 Subreddits.
+Script to visualise the relation between Creation Time and the Total Number of posts that made it to the Top 100 of 50 Subreddits.
 Sources: Reddit API, 
 Tools: Python and MS Excel
 
