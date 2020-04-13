@@ -6,9 +6,9 @@ Tools: Python and MS Excel
 
 # How to use
 You'll need 
-1. the developer keys from the Reddit API for Authentication
-2. the praw module
-3. the matplotlib module
-4. the openpyxl module
+1. developer keys from the Reddit API for Authentication
+2. praw module
+3. matplotlib module
+4. openpyxl module
 
 Run the "Main.py".
