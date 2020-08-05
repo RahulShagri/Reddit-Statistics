@@ -2,8 +2,7 @@
 
 ![Plot image](Output.png)
 
-Script to visualise the relation between Creation Time and the Total Number of posts that made it to the Top 100 of 50 Subreddits.
-Sources: Reddit API, 
+Script to visualise the relation between the creation time and the total number of posts that made it to the top 100 of 50 subreddits on Reddit.
 Tools: Python and MS Excel
 
 # How to use
